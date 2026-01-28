@@ -1,0 +1,8 @@
+---
+logging:
+  level: INFO
+  loggers:
+    HelloService: DEBUG
+greeting: Hello
+# server: 
+#      rootPath: /api/*
