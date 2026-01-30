@@ -1,5 +1,9 @@
 # GitHub Exercise – Week 2
 
+Prequisites: 
+ Java 25
+ Maven
+ 
 This repository contains two POCs:
 - Spring Boot
 - Dropwizard
